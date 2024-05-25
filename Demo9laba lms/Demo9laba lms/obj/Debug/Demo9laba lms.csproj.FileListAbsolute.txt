@@ -1,0 +1,7 @@
+C:\ДАНИИЛ\универ\прога\Лабораторная работа 9\Demo9laba lms\Demo9laba lms\obj\Debug\Demo9laba lms.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\прога\Лабораторная работа 9\Demo9laba lms\Demo9laba lms\obj\Debug\Demo9laba lms.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\прога\Лабораторная работа 9\Demo9laba lms\Demo9laba lms\bin\Debug\Demo9laba lms.exe.config
+C:\ДАНИИЛ\универ\прога\Лабораторная работа 9\Demo9laba lms\Demo9laba lms\bin\Debug\Demo9laba lms.exe
+C:\ДАНИИЛ\универ\прога\Лабораторная работа 9\Demo9laba lms\Demo9laba lms\bin\Debug\Demo9laba lms.pdb
+C:\ДАНИИЛ\универ\прога\Лабораторная работа 9\Demo9laba lms\Demo9laba lms\obj\Debug\Demo9laba lms.exe
+C:\ДАНИИЛ\универ\прога\Лабораторная работа 9\Demo9laba lms\Demo9laba lms\obj\Debug\Demo9laba lms.pdb
